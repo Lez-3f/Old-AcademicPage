@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -14,7 +17,13 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Education"
+    url: /education/
   
+  - title: "Experience"
+    url: /experience/
+
   - title: "Rewards"
     url: /rewards/
     
